@@ -1,4 +1,3 @@
-cta-zaragoza-repo1
+Proyecto de ejemplo de uso de GIT
 ==================
-
-Ejemplo del curso de Git
+Bienvenidos al proyecto
